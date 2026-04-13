@@ -24,11 +24,11 @@ Somos **5 estudiantes** de la Licenciatura en Tecnologías de la Información de
 
 | Rol | Responsable |
 |-----|-------------|
-| 🧭 **Líder de Proyecto** | *(por definir)* |
-| 📄 **Analista de Documentación** | *(por definir)* |
-| ⚙️ **Coordinador Técnico** | *(por definir)* |
-| 🤝 **Coordinador de Equipo** | *(por definir)* |
-| ✅ **Revisor de Calidad** | *(por definir)* |
+| 🧭 **Líder de Proyecto** | Federico Iza |
+| 📄 **Analista de Documentación** | Emanuel Silva |
+| ⚙️ **Coordinador Técnico** | Zaily Ochando de Antonio |
+| 🤝 **Coordinador de Equipo** | Pablo Mederos |
+| ✅ **Revisor de Calidad** | Ismael Medina |
 
 ---
 
